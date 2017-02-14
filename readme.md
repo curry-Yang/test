@@ -1,1 +1,1 @@
-i am study !
+i am studying git !
